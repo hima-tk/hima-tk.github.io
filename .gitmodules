@@ -1,0 +1,11 @@
+[submodule "modules/marquete"]
+	path = modules/marquete
+	url = git@github.com:aarroyoc/marquete.git
+	branch = main
+	shallow = true
+[submodule "modules/teruel"]
+	path = modules/teruel
+	url = git@github.com:aarroyoc/teruel.git
+	branch = main
+	shallow = true
+
